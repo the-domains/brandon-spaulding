@@ -1,7 +1,7 @@
 name: Brandon Spaulding
 favicon: null
 layout_spectrum: 0.73866
-typography_spectrum: 0.10464
+typography_spectrum: 0.11288
 collections:
   - index:
       path: /
@@ -28,11 +28,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#64a8de'
-    - '#000000'
-    - '#00ffff'
-    - '#0000ff'
-    - '#5555aa'
+    - '#b3a6a0'
+    - '#60534b'
+    - '#f3f3f1'
+    - '#120c04'
+    - '#af0407'
   brandStrength: 0.875
   lightness: 0.375
   saturation: 0.375
