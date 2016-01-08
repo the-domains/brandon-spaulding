@@ -1,9 +1,7 @@
-favicon: null
 name: Brandon Spaulding
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.7571
+typography_spectrum: 0.39483
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.4375
-  brandStrength: 0.625
-  rhythmicContrast: 0.75
   brandColors:
     - '#FF6700'
     - '#EBEBEB'
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  lightness: 0.5625
-typography_spectrum: 0.00474
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 1
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+  brandStrength: 0.3125
+  lightness: 0.125
+  saturation: 0
+  rhythmicContrast: 0
+purpose: []
