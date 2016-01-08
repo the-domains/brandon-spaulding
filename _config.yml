@@ -1,7 +1,7 @@
 name: Brandon Spaulding
 favicon: null
-layout_spectrum: 0.20998059399425983
-typography_spectrum: 0.9813686646521091
+layout_spectrum: 0.58227
+typography_spectrum: 0.00474
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.33579600928351283
-  lightness: 0.0713316157925874
-  saturation: 0.31632299604825675
-  rhythmicContrast: 0.03835660847835243
+  brandStrength: 0.625
+  lightness: 0.5625
+  saturation: 0.6875
+  rhythmicContrast: 0.75
 purpose: []
